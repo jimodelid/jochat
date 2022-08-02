@@ -53,16 +53,6 @@ class ChatWidget extends StatelessWidget {
                   snapshot.data!.docs.reversed.map((DocumentSnapshot document) {
                 Map<String, dynamic> data =
                     document.data()! as Map<String, dynamic>;
-                /*
-                if (sc.hasClients) {
-                  final position = sc.position.maxScrollExtent;
-                  sc.animateTo(
-                    position,
-                    duration: const Duration(seconds: 1),
-                    curve: Curves.easeOut,
-                  );
-                }
-      */
 
                 SchedulerBinding.instance.addPostFrameCallback(
                   (_) {
