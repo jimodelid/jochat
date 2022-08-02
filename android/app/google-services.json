@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "970161596305",
+    "firebase_url": "https://jochat-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "jochat",
+    "storage_bucket": "jochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970161596305:android:9e9bff5497f1b63a441c30",
+        "android_client_info": {
+          "package_name": "com.example.jochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970161596305-d5pngv13dodilbuhiboavgp2t7290prn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL8H_LxZThvBOE9UeB4JeDJb-MrKPaefE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970161596305-d5pngv13dodilbuhiboavgp2t7290prn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "970161596305-i9n6i0fnovui2g5k9ut3mlsc19mkjldo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jochat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
