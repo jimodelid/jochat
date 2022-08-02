@@ -1,6 +1,7 @@
 # jochat
 
 A new Flutter project.
+Chat App for the portfolio. Built with Flutter.
 
 ## Getting Started
 
