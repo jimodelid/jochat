@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:jochat/utils/settings.dart';
 import 'package:jochat/utils/utils.dart';
-import 'package:flutter_easyloading/flutter_easyloading.dart';
 
 class ChatWidget extends StatelessWidget {
   const ChatWidget({Key? key}) : super(key: key);
